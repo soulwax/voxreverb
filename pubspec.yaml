@@ -1,0 +1,11 @@
+name: voxreverb
+description: "Pure Dart room acoustics engine: surface material absorption, Eyring & Sabine RT60 reverb decay, portal diffraction paths, and virtual source localization."
+version: 0.1.0
+repository: https://github.com/soulwax/voxreverb
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
